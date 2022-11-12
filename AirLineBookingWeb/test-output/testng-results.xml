@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T06:33:53 AST" name="Default suite" finished-at="2022-11-12T06:34:51 AST" duration-ms="58065">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T06:33:53 AST" name="Default test" finished-at="2022-11-12T06:34:51 AST" duration-ms="58065">
+      <class name="Tests.TestWeb">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:33:53 AST" name="setup" finished-at="2022-11-12T06:33:54 AST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkDestinationOfTheWeekCity()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:33:54 AST" name="checkDestinationOfTheWeekCity" finished-at="2022-11-12T06:33:58 AST" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDestinationOfTheWeekCity -->
+        <test-method signature="veirifTravelFromBostonToLonden()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:33:58 AST" name="veirifTravelFromBostonToLonden" finished-at="2022-11-12T06:34:03 AST" duration-ms="5331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromBostonToLonden -->
+        <test-method signature="veirifTravelFromMexicoCityToDublin()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:03 AST" name="veirifTravelFromMexicoCityToDublin" finished-at="2022-11-12T06:34:08 AST" duration-ms="5078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromMexicoCityToDublin -->
+        <test-method signature="veirifTravelFromParisToRome()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:08 AST" name="veirifTravelFromParisToRome" finished-at="2022-11-12T06:34:13 AST" duration-ms="5190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromParisToRome -->
+        <test-method signature="veirifTravelFromPhiladelphiaToBuenosAires()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:13 AST" name="veirifTravelFromPhiladelphiaToBuenosAires" finished-at="2022-11-12T06:34:18 AST" duration-ms="5163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromPhiladelphiaToBuenosAires -->
+        <test-method signature="veirifTravelFromPortlandToBerlin()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:18 AST" name="veirifTravelFromPortlandToBerlin" finished-at="2022-11-12T06:34:23 AST" duration-ms="5059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromPortlandToBerlin -->
+        <test-method signature="veirifTravelFromSanDiegoToNewYork()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:23 AST" name="veirifTravelFromSanDiegoToNewYork" finished-at="2022-11-12T06:34:28 AST" duration-ms="5091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromSanDiegoToNewYork -->
+        <test-method signature="veirifTravelFromSaoPaoloToCairo()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:29 AST" name="veirifTravelFromSaoPaoloToCairo" finished-at="2022-11-12T06:34:34 AST" duration-ms="5161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifTravelFromSaoPaoloToCairo -->
+        <test-method signature="veirifyUserAbleToChoosedepartureCity()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:34 AST" name="veirifyUserAbleToChoosedepartureCity" finished-at="2022-11-12T06:34:34 AST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifyUserAbleToChoosedepartureCity -->
+        <test-method signature="veirifyUserAbleToChoosedestinationCity()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:34 AST" name="veirifyUserAbleToChoosedestinationCity" finished-at="2022-11-12T06:34:35 AST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veirifyUserAbleToChoosedestinationCity -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.TestWeb@65466a6a]" started-at="2022-11-12T06:34:35 AST" name="teardown" finished-at="2022-11-12T06:34:51 AST" duration-ms="16206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.TestWeb -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
